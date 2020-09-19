@@ -3,6 +3,9 @@
 ## Personal Information
 
 My name is Roshan Khadka, student number is s3876349, my student email address is s3876349@student.rmit.edu.au. 
+
+![image](https://github.com/rk121/rk121.github.io/blob/master/img/me-cropped.jpg?raw=true)
+
 I was born in Nepal, came to Australia in 2008 and have lived here ever since. Our family follows the Hindu religion although I am not a big fan of religions. 
 I speak English very well and can speak Nepali, Interesting fact about me is I guess - although I was born in Nepal and lived there for the first 8 years of my life, I have never learnt to write or read in Nepali, I was never good at it in school. 
 
@@ -17,30 +20,39 @@ I chose RMIT because it was the most flexible course which suits my time schedul
 During my studies I hope to learn important skills to help me land a job in the IT field. I hope to also learn more on Web development and further increase my skills. 
 
 ## Ideal Job
-
+![image](https://github.com/rk121/rk121.github.io/blob/master/img/idealjob1.JPG?raw=true)
+![image](https://github.com/rk121/rk121.github.io/blob/master/img/idealjob2.JPG?raw=true)
 
 The link to the job: https://www.seek.com.au/job/50583031?type=standout#searchRequestToken=5dbdaea3-5fa7-4725-ae1b-7021b0b09fe7 
 
 Senior Full stack developer looks at both the front-end and back-end development. This job looks at the development of existing and next generation systems, while reporting to the Development Manager. The role is mainly building on existing system using .NET 4.8, ASP.NET MVC 5, C# 5/6, React etc. and building the next generation global SaaS platform using various coding languages and frameworks including ReactJS, .Net Core etc.
+
 This position is appealing as it needs  lots of different skills to be able to do the job, the role is challenging which makes it interesting to work at and I will be able to develop even more as a web developer. With the skills needed it will push and motivate me to learn different coding languages. There is also the requirement for continuous learning in the job, which will force me to learn new things and enhance my asset as a developer. The job position also requires various work styles and competencies which will develop as I get into the career field. 
+
 The skills I currently possess are mainly front end skills, I have been learning front-end developer skills and so far learnt HTML, CSS and little of Javascript, once I have all necessary front-end skills I will then move onto back end learning Php, MySQL, .Net etc.  
+
 My current goal is to follow Traversy Media(Youtube) road map for Web Development 2020(https://www.youtube.com/watch?v=0pThnRneDjw) and learn all the essential technologies listed there, firstly learning Front-end technology and having good idea of it then moving onto Back-end, I would like to learn the following front-end skills before moving onto back-end:
-HTML5 for contents display
-CSS3 for style the contents
-Responsive designs to be able to view the website in any device
-BootStrap for easy web design
-Javascript to make dynamic pages
-Sass
-Learning Github to share codes and easy way to edit code with multiple devices
-Also Javascript framework such as React, Angular
+    HTML5 for contents display
+    CSS3 for style the contents
+    Responsive designs to be able to view the website in any device
+    BootStrap for easy web design
+    Javascript to make dynamic pages
+    Sass
+    Learning Github to share codes and easy way to edit code with multiple devices
+    Also Javascript framework such as React, Angular
+    
 After that move onto learning back-end technology:
-Starting with Php, Node.js
-Learning MySQL database
+    Starting with Php, Node.js
+    Learning MySQL database
+    
 After learning those, my idea is to look at job adverts and see what is in demand at that stage and learning those technologies, and web development is evolving every year and has different technologies releasing every year, needing developers to stay up to date and learn the latest technology.
 
 ## Personal Profile
 
 ### Test #1 - 16 Personalities Test Result
+
+![image](https://github.com/rk121/rk121.github.io/blob/master/img/16personalities-result3.JPG?raw=true)
+
 What do the results of these tests mean for you?
 The results show an accurate measure of my personality. It shows that I am an introvert because I am not really outgoing and am very shy, I tend to be more reserved and thoughtful. The way I do things is more observant, and will focus on the current task and learn about something before committing to it. I tend to also like practical work, something that's hands on. I make decisions based on how I feel at the time and follow my gut instinct, this is especially true as the situation I have been in the past, I just did what felt was most reasonable, one example is changing career from Air con and refrigeration to IT.  Lastly, identity being Turbulent, I’m self-conscious and sensitive to stress. But I am a success driven individual that is eager to improve. 
 How do you think these results may influence your behaviour in a team?
@@ -50,6 +62,8 @@ How should you take this into account when forming a team?
 When forming a team, I should look for members with similar identity, who can work individually and complete given tasks without needing to be micromanaged. As for Nature, look for a member that is more of a thinker, as that can benefit greatly on the long run, in a team environment we need to look at the task and make judgement logically not just going with gut feelings. Other then I believe someone extraverted will help in this situation as it will make it easier for all members to get along and helps get rid of shyness.
 
 ### Test #2 - Education Planner Result - http://www.educationplanner.org/ 
+
+![image](https://github.com/rk121/rk121.github.io/blob/master/img/educationplannertest2.JPG?raw=true)
 
 What do the results of these tests mean for you?
 Based on the result it confirms that my learning style is auditory. This means that I learn mostly by hearing and listening, and audio information/instruction will help my workflow, as I will remember it better then written instructions. 
@@ -61,6 +75,8 @@ How should you take this into account when forming a team?
 When forming a team, I can capitalize on my learning style, by listening to members input and writing it down, making notes of what I have learnt for everyone. As my learning style is auditory, I should look for people with different learning styles so we can all have different concepts and inputs during discussion. 
 
 ### Test #3 - Creativity Test Result - http://www.testmycreativity.com/ 
+
+![image](https://github.com/rk121/rk121.github.io/blob/master/img/creativitytest.JPG?raw=true)
 
 What do the results of these tests mean for you?
 The results confirm that I’m not very creative and my creativity is below par. I think this is an accurate result as creativity has never been my plus point, I would rather have someone design and I make the product then design myself. I lack creativity in writings and designing, where I struggle to come up with something. I’m not a very creative or imaginative person, I struggle at things like writing stories, creating designs such as logos and find it hard to imagine things based on what is read like books.
