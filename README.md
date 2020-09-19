@@ -4,8 +4,10 @@
 
 My name is Roshan Khadka, student number is s3876349, my student email address is s3876349@student.rmit.edu.au. 
 I was born in Nepal, came to Australia in 2008 and have lived here ever since. Our family follows the Hindu religion although I am not a big fan of religions. 
-I speak English very well and can speak Nepali, although I was born in Nepal and lived there for the first 8 years of my life, I have never learnt to write or read in Nepali, I was never good at it in school. 
+I speak English very well and can speak Nepali, Interesting fact about me is I guess - although I was born in Nepal and lived there for the first 8 years of my life, I have never learnt to write or read in Nepali, I was never good at it in school. 
+
 I have finished my HSC here, and after HSC I joined Bachelor of Information Systems, I did it for a semester and decided it wasn’t for me and went with my plan B from high school which was getting an Electrical Apprenticeship. I did that for about 2 years and started having physical problems and decided to get back into IT. So, I decided to try Information Technology this time, ended up completing a Diploma of IT, found that interesting and has an area that I am interested in which was web development. Now looking to get my Bachelor in IT. 
+
 I love playing all sports, but my favourite is soccer. I love watching and playing soccer, my favourite team is FC Barcelona. I have played soccer both in school and outside of school, during my time in high school. But ever since high school finished, I have not had enough time to play, so I just watch now. 
 
 ## Interest in IT
@@ -15,7 +17,7 @@ I chose RMIT because it was the most flexible course which suits my time schedul
 During my studies I hope to learn important skills to help me land a job in the IT field. I hope to also learn more on Web development and further increase my skills. 
 
 ## Ideal Job
-![image](https://user-images.githubusercontent.com/51509063/59553312-8d6cc580-8fd6-11e9-8726-505283b35c20.png)
+
 
 The link to the job: https://www.seek.com.au/job/50583031?type=standout#searchRequestToken=5dbdaea3-5fa7-4725-ae1b-7021b0b09fe7 
 
