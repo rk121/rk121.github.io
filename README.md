@@ -6,8 +6,7 @@ My name is Roshan Khadka, student number is s3876349, my student email address i
 
 ![image](https://github.com/rk121/rk121.github.io/blob/master/img/me-cropped.jpg?raw=true)
 
-I was born in Nepal, came to Australia in 2008 and have lived here ever since. Our family follows the Hindu religion although I am not a big fan of religions. 
-I speak English very well and can speak Nepali, Interesting fact about me is I guess - although I was born in Nepal and lived there for the first 8 years of my life, I have never learnt to write or read in Nepali, I was never good at it in school. 
+I was born in Nepal, came to Australia in 2008 and have lived here ever since. We follow the Nepalese culture. I speak English very well and can speak Nepali, Interesting fact about me is I guess - although I was born in Nepal and lived there for the first 8 years of my life, I have never learnt to write or read in Nepali, I was never good at it in school. 
 
 I have finished my HSC here, and after HSC I joined Bachelor of Information Systems, I did it for a semester and decided it wasn’t for me and went with my plan B from high school which was getting an Electrical Apprenticeship. I did that for about 2 years and started having physical problems and decided to get back into IT. So, I decided to try Information Technology this time, ended up completing a Diploma of IT, found that interesting and has an area that I am interested in which was web development. Now looking to get my Bachelor in IT. 
 
